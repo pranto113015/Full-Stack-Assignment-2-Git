@@ -23,6 +23,10 @@ $ git commit -m “commit message eg- initial commit”
 5. Push — uploading local changes to a specific remote branch.
 ```github
 $ git push origin <remote branch name>
+<<<<<<< HEAD
+=======
+```
+>>>>>>> ff42b78f6703eaf495f8f4a2419d60093659dcb0
 
 # 2 Have More of my learnings
 6. Pull — to download and integrate remote branch changes in your local branch.
